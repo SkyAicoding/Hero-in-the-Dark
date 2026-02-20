@@ -1,0 +1,17 @@
+{
+  "name": "hero-in-the-dark",
+  "version": "0.1.0",
+  "description": "2D Side-scrolling Action RPG - Hero in the Dark",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.87.0"
+  },
+  "devDependencies": {
+    "vite": "^6.1.0"
+  }
+}
